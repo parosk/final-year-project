@@ -29,7 +29,7 @@ fyp      : the main script to draw bfield line and tan line.
 fypplot  : which output the lines and column density on a graph, note that the  column density display 
            is processed to have low resolution for faster computation(need improvement).
 
-The rest are function.
+The rest are functions.
 
 
 
